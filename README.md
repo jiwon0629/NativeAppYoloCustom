@@ -25,3 +25,6 @@ git clone https://github.com/ultralytics/yolov5.git
 실행은 windowAPP.py
 ## 프로그램 실행 결과 화면
 ![person](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/c0ade085-4e57-4c87-9611-879f6d419836)
+![CellPhone](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/7e5dce57-3e28-43a0-911c-0660c1d9cb6b)
+
+
