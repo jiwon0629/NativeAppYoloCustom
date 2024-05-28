@@ -20,3 +20,7 @@ pip install -r requirements.txt
 git clone https://github.com/ultralytics/yolov5.git
 ```
 ## 폴더구조는
+![codeResult](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/8656690a-41e9-4c60-b0b0-7251d160d9d6)
+
+실행은 windowAPP.py
+## 프로그램 실행 결과 화면
