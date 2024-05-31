@@ -26,7 +26,7 @@ git clone https://github.com/ultralytics/yolov5.git
 ## 프로그램 실행 결과 화면
 ![person](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/c0ade085-4e57-4c87-9611-879f6d419836)
 ![CellPhone](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/7e5dce57-3e28-43a0-911c-0660c1d9cb6b)
-Person 로봇 결과화면 : https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/0d13c9a3-cc71-4c87-8efb-1a275ceb2c41
+Person 로봇 결과화면 : [Person 로봇 결과화면](https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/0d13c9a3-cc71-4c87-8efb-1a275ceb2c41)
 
 CellPhone 로봇 결과화면 : https://github.com/jiwon0629/NativeAppYoloCustom/assets/149983498/169461dd-a2db-485e-852b-7d8a73d58fc7  
 
